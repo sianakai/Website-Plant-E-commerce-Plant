@@ -1,0 +1,6 @@
+{
+  "name": "Planto - Breathe Naturally | E-commerce Tanaman",
+  "description": "Toko tanaman hias indoor premium dengan koleksi tanaman pemurni udara (O2 plants), tren dekorasi hijau, dan kemudahan belanja online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
